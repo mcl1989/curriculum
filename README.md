@@ -40,4 +40,8 @@ São Paulo/SP
 
 <ul>
 	<li><b>Gradua&ccedil;&atilde;o</b> - An&aacute;lise e Desenvolvimento de Sistemas (UMC)</li>
+	<li><b>Curso Técnico</b> - T&eacute;cnico em Inform&aacute;tica (ETEC Prof. Basilides de Godoy)</li>
+	<li><b>Curso</b> - Desenvolvimento Enterprise com PHP (4Linux)</li>
+	<li><b>Curso</b> - Desenvolvimento Orientado a Objetos com PHP (4Linux)</li>
+	<li><b>Curso</b> - Desenvolvimento Web com PHP (4Linux)</li>
 </ul>
